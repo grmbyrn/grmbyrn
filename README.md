@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [Reading Recs](https://100-hours-project-production.up.railway.app/)
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React**
+- 🌱 I’m currently using **SvelteKit, JavaScript, TypeScript, React**
 
 - 👯 I’m looking to collaborate on **any projects that could be interesting**
 
-- 🤝 I’m looking for help with **getting more involved in open source projects**
-
-- 👨‍💻 All of my projects are available at [https://graemebyrne.com/](https://graemebyrne.com/)
+- 👨‍💻 All of my projects are available at [https://graeme-byrne.vercel.app/#contact](https://graeme-byrne.vercel.app/#contact)
 
 - 💬 Ask me about **how I got into coding**
 
