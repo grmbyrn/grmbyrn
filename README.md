@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **grmbrn89@gmail.com**
 
-- 📄 Find out about my experiences [https://docs.google.com/document/d/1CTO9o-UDSOUe5G3NOCA6Fc7H9SdewWYO/edit#](https://docs.google.com/document/d/1CTO9o-UDSOUe5G3NOCA6Fc7H9SdewWYO/edit#)
-
 - ⚡ Fun fact **I'm always thinking about football**
 
 <h3 align="left">Connect with me:</h3>
