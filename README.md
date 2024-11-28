@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any projects that could be interesting**
 
-- 👨‍💻 All of my projects are available at [https://graeme-byrne.vercel.app/#contact](https://graeme-byrne.vercel.app/#contact)
+- 👨‍💻 All of my projects are available at [https://graeme-byrne.vercel.app/#contact](https://graeme-byrne.vercel.app/)
 
 - 💬 Ask me about **how I got into coding**
 
