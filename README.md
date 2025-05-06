@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently using **SvelteKit, JavaScript, TypeScript, React, Next**
 
-- 👨‍💻 All of my projects are available at [https://graeme-portfolio.vercel.app/](https://www.graemebyrne.com/)
+- 👨‍💻 All of my projects are available at https://www.graemebyrne.com/
 
 - 📫 How to reach me **grmbrn89@gmail.com**
 
