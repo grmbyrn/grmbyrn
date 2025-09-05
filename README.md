@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Graeme Byrne</h1>
-<p align="center">
+<p align="left">
 Frontend Engineer | React, Next.js, Vue, Svelte | Building high-performance, scalable, and accessible web apps
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.graemebyrne.com/"><strong>Portfolio »</strong></a> |
   <a href="https://www.linkedin.com/in/graeme-byrne/"><strong>LinkedIn »</strong></a>
 </p>
@@ -39,7 +39,7 @@ Modern BitTorrent index and tracker — open-source Rust backend + Vue 3 fronten
 
 ## 👨‍💻 Contact
 
-<p align="center">
+<p align="left">
   <a href="mailto:grmbrn89@gmail.com">✉️ Email</a> • 
   <a href="https://www.linkedin.com/in/graeme-byrne/">🔗 LinkedIn</a>
 </p>
